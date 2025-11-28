@@ -4,7 +4,7 @@ instance_type = "t2.medium"
 ami           = "ami-02b8269d5e85954ef"   # Ubuntu 24.04
 key_name      = "keynodejsproject"                     # Replace with your key-name without .pem extension
 volume_size   = 30
-region_name   = "us-east-1"
+region_name   = "ap-south-1"
 server_name   = "JENKINS-SERVER"
 
 # Note: 
